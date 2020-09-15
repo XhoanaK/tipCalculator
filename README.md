@@ -1,4 +1,4 @@
-# tipCalculator
+# Tip Calculator
 
 Codepath iOS Pre-work Assignment
 
